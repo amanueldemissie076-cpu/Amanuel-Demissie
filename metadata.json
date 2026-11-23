@@ -1,0 +1,6 @@
+{
+  "name": "Call for Growth",
+  "description": "Bilingual Amharic and English Android app for the Ethiopian entrepreneurship competition Call for Growth (ለስኬት እንጠራራ / ለሀብት እንጠራራ), featuring registration with payment verification, secure one-vote-per-person public voting, and organizer review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

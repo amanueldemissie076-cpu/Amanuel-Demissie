@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Call for Growth</string>
+    <string name="competition_slogans">ለስኬት እንጠራራ • ለሀብት እንጠራራ</string>
+    <string name="competition_subtitle">የኢትዮጵያ የሥራ ፈጠራ ውድድር • Ethiopian Entrepreneurship Competition</string>
+    <string name="tab_register">ምዝገባ</string>
+    <string name="tab_vote">ድምጽ መስጫ</string>
+    <string name="tab_admin">አዘጋጅ</string>
+    <string name="vote_locked_banner">ድምጽዎ በተሳካ ሁኔታ ተመዝግቧል - አንድ ጊዜ ብቻ</string>
+    <string name="cd_hero_banner">Call for Growth competition hero banner</string>
+    <string name="cd_attachment_preview">Attachment preview</string>
+</resources>
